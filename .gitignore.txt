@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data & Weights
+weights/*.pt
+weights/*.onnx
+data/synthetic/
+
+# IDE files
+.vscode/
+.idea/
